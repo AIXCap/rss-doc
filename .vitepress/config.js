@@ -170,8 +170,8 @@ export default defineConfig({
       {
         text: 'Policy',
         items: [
-          { text: 'Privacy Policy', link: '/zh/policy/privacy-policy' },
-          { text: 'User Agreement', link: '/zh/policy/user-agreement' }
+          { text: 'Privacy Policy', link: '/policy/privacy-policy' },
+          { text: 'User Agreement', link: '/policy/user-agreement' }
         ]
       },
       {
