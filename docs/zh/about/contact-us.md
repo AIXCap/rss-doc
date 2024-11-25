@@ -9,7 +9,7 @@
   [support@rsstabs.com](mailto:support@rsstabs.com)   
 
 - **在线反馈**  
-  您也可以通过 **[在线反馈表单](https://gaoqiankeji.feishu.cn/wiki/KQxfwyXWfiOFNFkRLg4caFFmnXg?from=from_copylink)** 提交您的问题或建议，我们会尽快处理。
+  您也可以通过 **[在线反馈表单](https://gaoqiankeji.feishu.cn/share/base/form/shrcnpd8UCmsjjLo67T0m92nDyh)** 提交您的问题或建议，我们会尽快处理。
 
 ## **合作与媒体**
 
