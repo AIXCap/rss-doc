@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: RssTabs
-  text: 你的终极 RSS 订阅管理器
-  tagline: 轻松组织、聚合和发现 RSS 订阅源
+  text: 在 RssTabs 中构建您自己的 AI 新闻助手。智能、个性化且高效。
+  tagline: 采用尖端 AI 技术，为您量身定制最新头条。
   actions:
     - theme: brand
       text: 获取指南
