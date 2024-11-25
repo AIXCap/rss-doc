@@ -1,47 +1,26 @@
 # 快速上手
 
-只需几分钟即可开始使用 RssTabs。本指南将帮助你设置并开始使用 RssTabs 管理你的 RSS 订阅源。
+只需几分钟即可开始使用 `RssTabs`。本指南将帮助你设置并开始使用 `RssTabs` 管理你的 `RSS` 订阅源。
 
 ## 安装
 
-1. 访问 [RssTabs](https://rsstabs.com) 网站
-2. 点击"注册"创建你的账号
-3. 下载并安装适合你平台的 RssTabs
+1. 访问 [RssTabs Website](https://rsstabs.com) 官网
+2. 选择适合您的 `RssTabs` 平台使用
+   1. 您可以官网点击免费获取进入 `RssTabs` 平台，或者直接访问 [RssTabs](https://app.rsstabs.com) 
+   2. 您也可以在官网点击下载浏览器扩展使用 RssTabs
+3. 您可以选择 `Google` 或者 `GitHub` 登录以创建您的账号
+4. 进入引导页，开始您的 `RssTabs` 之旅吧！
 
-## 第一步
-
-### 1. 添加你的第一个订阅源
-
-1. 点击顶部导航栏的"+"按钮
-2. 输入 RSS 订阅源 URL 或网站地址
-3. 点击"添加订阅"完成订阅
-
-### 2. 组织你的订阅源
-
-1. 点击"新建集合"创建一个集合
-2. 为你的集合命名
-3. 将订阅源拖放到你的集合中
-
-### 3. 阅读和管理内容
-
-1. 点击任何订阅源查看其内容
-2. 使用已读/未读按钮进行追踪
-3. 保存感兴趣的文章以供稍后阅读
 
 ## 下一步
 
-- 了解[订阅源](/zh/feed-sources)
-- 创建你的第一个[聚合源](/zh/create-poly-feed)
-- 探索[搜索](/zh/search)功能
-
-## 使用技巧
-
-- 使用键盘快捷键加快导航
-- 设置订阅源刷新间隔
-- 为重要更新启用通知
+- [创建你的第一个Poly Feed](../features/create-poly-feed.md)
+- [管理你的 Poly Feed](../features/manage-poly-feed.md)
+- 探索 [信息流](../features/information.md) 
+- 探索 [搜索引擎](../features/search-engine.md) 功能
+- 查看 [账号与设置](../features/account-settings.md)
 
 ## 需要帮助？
 
-- 查看我们的[常见问题](/zh/faq)部分
-- 访问我们的[支持论坛](https://rsstabs.com/support)
-- 通过 support@rsstabs.com 联系我们
+- 查看我们的 [常见问题](../faq/product-faq.md) 部分
+- 点击 [联系我们](../about/contact-us.md) 向我们发送邮件

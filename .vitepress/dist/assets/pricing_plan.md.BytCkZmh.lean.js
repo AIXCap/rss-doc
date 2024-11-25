@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.JX9EV3OY.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pricing/plan.md","filePath":"pricing/plan.md","lastUpdated":null}'),n={name:"pricing/plan.md"};function r(p,c,o,s,i,l){return a(),t("div")}const m=e(n,[["render",r]]);export{_ as __pageData,m as default};
