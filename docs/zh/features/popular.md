@@ -13,15 +13,33 @@
 
 ## 如何订阅 Poly Feed
 
+1. 在 `RssTabs` 中点击 `源广场` 标签，或者直接打开 [👉 源广场](https://app.rsstabs.com/popular)
+2. 找到你感兴趣的 `Poly Feed`
+3. 点击 `订阅` 按钮订阅
+4. 订阅成功后，您可以在侧边栏中查看您订阅的 `Poly Feed`
+5. 您订阅的 `Poly Feed` 不可编辑，该 `Poly Feed` 同步拥有者的更新
 
 ## 如何复制 Poly Feed
 
-TODO
+
+1. 在 `RssTabs` 中点击 `源广场` 标签，或者直接打开 [👉 源广场](https://app.rsstabs.com/popular)
+2. 找到你感兴趣的 `Poly Feed`
+3. 点击 `复制` 按钮复制一个 `Poly Feed`
+4. 复制成功后，您可以在侧边栏中查看或管理（编辑）您复制的 `Poly Feed`
 
 ## 订阅与复制 Poly Feed 的区别
 
+### 订阅
 
-TODO
+- `Poly Feed` 的拥有者是发布者，订阅者的 `Poly Feed` 会同步拥有者的更新
+- 订阅源在侧边栏展示时会有 `f` 标记
+
+
+### 复制
+
+- 复制的 `Poly Feed` 不会同步拥有者的更新
+- 它是完全属于您的，您可以在这之上继续编辑管理这个 `Poly Feed`
+- 复制源在侧边栏展示时会有 `c` 标记
 
 ## 下一步
 

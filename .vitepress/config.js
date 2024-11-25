@@ -277,7 +277,7 @@ export default defineConfig({
       Icons({
         compiler: 'vue3',
         customCollections: {
-          rsstabs: FileSystemIconLoader('public/svg/rsstabs', svg => svg.replace(/^<svg /, '<svg fill="currentColor" '))
+          rsstabs: FileSystemIconLoader('assets/svg/rsstabs', svg => svg.replace(/^<svg /, '<svg fill="currentColor" '))
         },
         autoInstall: true
       }),
