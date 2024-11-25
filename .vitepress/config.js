@@ -134,7 +134,7 @@ export default defineConfig({
           next: '下一页',
         },
         editLink: {
-          pattern: 'https://github.com/AIXCap/rss-doc/edit/main/docs/zh/:path',
+          pattern: 'https://github.com/AIXCap/rss-doc/edit/main/docs/:path',
           text: '在 GitHub 上编辑此页',
         },
 
