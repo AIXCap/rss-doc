@@ -6,7 +6,7 @@ Thank you for your interest and support in `RssTabs`! We are eager to hear your 
 
 - **Email**  
   If you have any questions or suggestions about our product, please email us at:  
-  [support@rsstabs.com](mailto:support@rsstabs.com)   
+  [admin@rsstabs.com](mailto:admin@rsstabs.com)   
 
 - **Online Feedback**  
   You can also submit your questions or suggestions through our **[Online Feedback Form](https://gaoqiankeji.feishu.cn/share/base/form/shrcn0E8sdgRus0Nm9k1Cn6wfKf)**, and we will process them as soon as possible.
@@ -14,7 +14,7 @@ Thank you for your interest and support in `RssTabs`! We are eager to hear your 
 ## **Business & Media**
 
 For business cooperation or media-related inquiries, please contact:  
-**[business@rsstabs.com](mailto:business@rsstabs.com)**
+**[admin@rsstabs.com](mailto:admin@rsstabs.com)**
 
 ## **Social Media**
 
