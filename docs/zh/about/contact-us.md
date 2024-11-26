@@ -6,7 +6,7 @@
 
 - **电子邮件**  
   若您有产品相关的任何疑问或建议，请发送邮件至：  
-  [support@rsstabs.com](mailto:support@rsstabs.com)   
+  [admin@rsstabs.com](mailto:admin@rsstabs.com)   
 
 - **在线反馈**  
   您也可以通过 **[在线反馈表单](https://gaoqiankeji.feishu.cn/share/base/form/shrcnpd8UCmsjjLo67T0m92nDyh)** 提交您的问题或建议，我们会尽快处理。
@@ -14,7 +14,7 @@
 ## **合作与媒体**
 
 如果您希望与我们合作或有媒体宣传相关的需求，请联系：  
-**[business@rsstabs.com](mailto:business@rsstabs.com)**
+**[admin@rsstabs.com](mailto:admin@rsstabs.com)**
 
 ## **社交媒体**
 
