@@ -40,3 +40,5 @@ Support seamless multi-platform synchronization (currently supporting Web, H5, B
 ### Localized Language Support
 
 The `RssTabs` platform supports multiple mainstream languages including Chinese, English, Japanese, Korean, and more. Furthermore, `RssTabs` uses `AI` technology to implement automatic translation, allowing you to easily read content from around the world, providing users with richer information acquisition options.
+### Get started for free right now!
+web/mobile : [https://app.rsstabs.com](https://app.rsstabs.com/)
