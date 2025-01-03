@@ -11,3 +11,6 @@ We believe:
 **Users Are Always Core**: `RssTabs` is committed to being user experience-oriented, enabling every user to conveniently access the information they want.
 
 Through `RssTabs`, we hope to reignite users' enthusiasm for RSS while injecting more intelligent and humanized possibilities into the way information is accessed.
+
+### Get started for free right now!
+web/mobile : [https://app.rsstabs.com](https://app.rsstabs.com/)
