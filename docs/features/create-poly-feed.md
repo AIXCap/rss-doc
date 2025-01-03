@@ -36,3 +36,6 @@ In the `RssTabs` platform, a `Poly Feed` refers to an aggregated feed composed o
 - Explore [Information Flow](../features/information.md)
 - Explore [Search Engine](../features/search-engine.md) functionality
 - Check [Account & Settings](../features/account-settings.md)
+### Get started for free right now!
+web/mobile : [https://app.rsstabs.com](https://app.rsstabs.com/)
+
