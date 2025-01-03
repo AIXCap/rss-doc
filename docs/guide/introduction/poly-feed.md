@@ -23,3 +23,6 @@ Each `Poly Feed` can be highly customized according to user needs, from data sou
 [👉 See how to create Poly Feed](../../features/create-poly-feed.md)
 
 [👉 See how to manage Poly Feed](../../features/manage-poly-feed.md)
+
+### Get started for free right now!
+web/mobile : [https://app.rsstabs.com](https://app.rsstabs.com/)
