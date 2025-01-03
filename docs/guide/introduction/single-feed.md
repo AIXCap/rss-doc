@@ -13,3 +13,6 @@ A `Single Feed` refers to an independent RSS data source, typically correspondin
 - A category subscription from a news website (such as the "Technology" channel)
 
 In `RssTabs`, `Single Feed` not only provides content updates but also serves as the foundational data service for more complex aggregation forms (such as `Poly Feed`).
+
+### Get started for free right now!
+web/mobile : [https://app.rsstabs.com](https://app.rsstabs.com/)
