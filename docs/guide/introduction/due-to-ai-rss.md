@@ -39,3 +39,5 @@ Introduce lightweight interaction features allowing users to like and comment on
 ### AI-Driven Content Generation (Planned)
 
 In the future, `RssTabs` users will be able to quickly generate article drafts, news summaries, and even personalized emails through `RssTabs'` AI module, allowing users to publish content directly on the `RssTabs` platform, transforming `RssTabs` users from content collectors into producers.
+### Get started for free right now!
+web/mobile : [https://app.rsstabs.com](https://app.rsstabs.com/)
