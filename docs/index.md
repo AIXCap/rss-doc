@@ -11,7 +11,7 @@ hero:
       link: /guide/introduction/what-is-it
     - theme: alt
       text: GitHub
-      link: https://github.com/your-org/rsstabs
+      link: https://github.com/AIXCap/rss-doc
 
 # features:
 #   - title: Feed Management
